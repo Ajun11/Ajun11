@@ -26,12 +26,15 @@ I am a master student of  <a href="https://www.buaa.edu.cn/">Beihang University(
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu"></code>
 
-**Interests and Contributions**
+**Interests**
 
-- Soft Robot 
-- System Contribution(Mechanical and Electrical) 
-- Control Algorithm
-<!---
-Ajun11/Ajun11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  Robot Dynamics 
+
+- Control Algorithm (Frequency domain control, Observer, MPC, .et)
+
+- Transformers! 
+
+  <!---
+  Ajun11/Ajun11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  You can click the Preview link to take a look at your changes.
+  --->
