@@ -1,17 +1,17 @@
 ### Hey 👋, I am Jun Liu 😀.
 
-I am a master student of  <a href="https://www.buaa.edu.cn/">Beihang University</a> (CN) and major in control engineering now. I have graduated from Faculty of Robot Science and Engineering, <a href="https://www.neu.edu.cn/">Northeastern University)</a>
- (CN), at 2023.
+I am a master student of  <a href="https://www.buaa.edu.cn/">Beihang University(CN)</a> and major in control engineering now. I have graduated from Faculty of Robot Science and Engineering, Northeastern University
+ (China), at 2023.
 
 😄 I like robot control, motor control and physics! Any questions about my repositories are welcome！
 
-🏫 [B.Eng](http://english.neu.edu.cn/):Northeastern University（Robotic Engineering）
+🏫 [Beng](http://english.neu.edu.cn/):Northeastern University（Robotic Engineering）
 
-👨‍🎓 [M.Eng](http://https://ev.buaa.edu.cn/):Beihang University (Control Engineering)
+👨‍🎓 [Ms](http://https://ev.buaa.edu.cn/):Beihang University (Control Engineering)
 
 📫 Email: liujun_chn@outlook.com
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="240"/>
+<img align="right" alt="GIF" src="image/transformers.gif?raw=true" width="343" height="240"/>
 
 **Languages and Frameworks**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++"></code>
