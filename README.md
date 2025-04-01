@@ -9,7 +9,7 @@ I am a master student of  <a href="https://www.buaa.edu.cn/">Beihang University(
 
 👨‍🎓 [Ms](http://https://ev.buaa.edu.cn/):Beihang University (Control Engineering)
 
-📫 Email: liujun.ladiesman217@gmail.com
+📫 Email: liujun_chn@outlook.com
 
 <!---
 Ajun11/Ajun11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
