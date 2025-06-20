@@ -4,7 +4,7 @@ I am a master student of  <a href="https://www.buaa.edu.cn/">Beihang University<
 
 😄 I like robot control, motor control and physics! Any questions about my repositories are welcome！
 
-🏫 [B.Eng](http://english.neu.edu.cn/):Northeastern University（Robotic Engineering）
+🏫 [B.Eng](http://english.neu.edu.cn/):Northeastern University (Robotic Engineering)
 
 👨‍🎓 [M.Eng](http://https://ev.buaa.edu.cn/):Beihang University (Control Engineering)
 
