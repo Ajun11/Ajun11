@@ -33,7 +33,7 @@ I am a master student of  <a href="https://www.buaa.edu.cn/">Beihang University<
 
 - Transformers! 
 
-- I don't like Control Moment Gyros(:disappointed:)
+- I don't like Control Moment Gyros(😞)
   <!---
   Ajun11/Ajun11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   You can click the Preview link to take a look at your changes.
